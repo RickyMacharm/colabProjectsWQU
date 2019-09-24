@@ -1,0 +1,2 @@
+# colabProjectsWQU
+pythons notes
